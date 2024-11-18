@@ -1,4 +1,4 @@
-# TCIT Challenge - Full-Stack Semi Senior & Junior (React, Node.js)
+# TCIT Challenge Full-Stack Semi Senior & Junior - Interview Round 1 (JavaScript)
 
 ## Uso
 
