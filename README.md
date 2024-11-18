@@ -2,7 +2,7 @@
 
 ## Uso
 
-- Prueba la aplicación con el siguiente comando: `node index.js`
+- Correr con el siguiente comando: `node index.js`
 
 ## Requerimientos
 
